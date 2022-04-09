@@ -8,6 +8,7 @@ ul{
     justify-content: space-between;
     list-style-type: none;
     padding: 16px;
+    
 }
 
 a{
@@ -21,7 +22,7 @@ header img{
      height: 150px;
      border-radius: 50%;
      border: 5px solid #004aad;
-
+    
 }
 
 .center{
